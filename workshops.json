@@ -4,7 +4,6 @@
       "course_id": "Workshop001",
       "title": "TEST",
       "instructor": "SARAH MITCHELL",
-      "instructorimg":"assets/images/github.png"
       "instructorBio": "EXPERT JAVA DEVELOPER WITH 10 YEARS OF EXPERIENCE.",
       "duration": "3HR",
       "seatsLeft": 12,
